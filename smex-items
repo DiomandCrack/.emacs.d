@@ -1,0 +1,33 @@
+
+;; ----- smex-history -----
+(
+ speedbar
+ company-mode
+ emmet-mode
+ web-beautify-html
+ org-mode
+ markdown-mode
+ web-mode-disable
+)
+
+;; ----- smex-data -----
+(
+ (find-file . 1)
+ (window-numbering-mode . 1)
+ (org-mode . 3)
+ (org-insert-src-block . 72)
+ (company-mode . 35)
+ (revert-buffer . 3)
+ (emmet-mode . 6)
+ (speedbar . 7)
+ (css-mode . 1)
+ (scss-mode . 1)
+ (yas-new-snippet . 6)
+ (js2-mode . 1)
+ (js-mode . 2)
+ (webjump . 1)
+ (web-mode . 2)
+ (web-mode-disable . 2)
+ (markdown-mode . 2)
+ (web-beautify-html . 1)
+)

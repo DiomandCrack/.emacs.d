@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: css
+# key: css_
+# --
+#+begin_css
+	$0
+#+end_css

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: doc.gEBI
+# key: dgi
+# --
+document.getElementById('$0');

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: doc.querySelector
+# key: dq
+# --
+document.querySelector('$0');

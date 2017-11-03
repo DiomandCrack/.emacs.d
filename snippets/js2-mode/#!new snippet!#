@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: querySelectorAll
+# key: dqa
+# --
+document.querySelectorAll('$0');
